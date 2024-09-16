@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<figure>
+    <img src="./https://th.bing.com/th/id/R.be52a311d3aca00123ac9dad0641bfb1?rik=CiBX%2fbXh05QMKw&riu=http%3a%2f%2fstatic.minitokyo.net%2fdownloads%2f20%2f29%2f218970.jpg&ehk=uJKqoq%2bk1onBgjOow15inQ08OzDYgKFkcR%2fbLshEzLI%3d&risl=&pid=ImgRaw&r=0
+    width="300"
+    height="70"
+    alt="logo"
+    title="Gaara">
+    <figcaption> Gaara.</figcaption>
+    </figure>
+    
+</body>
+</html>
