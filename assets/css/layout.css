@@ -64,7 +64,9 @@ header {
 }
 
 header #logo {
-	background-color: #B22222;
+	background-color:
+		linear-gradient(to bottom, transparent 5%, #8B0000 50%),
+		linear-gradient(to right, #F00C 50%, #00FC 100%);
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
@@ -77,7 +79,6 @@ header #logo {
 	flex: 0 1 200px;
 
 	/* Cor do fundo. */
-	background: #3333;
 
 	/* Alinha os itens na vertical. */
 	justify-content: center;
