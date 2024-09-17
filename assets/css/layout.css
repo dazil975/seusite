@@ -64,7 +64,7 @@ header {
 }
 
 header #logo {
-	background: #B22222;
+	background-color: #B22222;
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
