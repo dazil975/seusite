@@ -134,8 +134,8 @@ nav a {
 }
 
 main {
-	background-color:
-		linear-gradient(to bottom, transparent 5%, #000e 50%),
+	background:
+		linear-gradient(to bottom, transparent 10%, #000e 50%),
 		linear-gradient(to right, #F00C 50%, #00FC 100%),
 		url(https://unsplash.it/100/100);
 	/* Realizar a subtração de 100% da altura vertical menos a soma    */
