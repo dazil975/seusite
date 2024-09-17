@@ -39,7 +39,7 @@ h1 {
 /* Formatação comum entre os elementos. */
 header, nav, main, aside, footer {
 	/* Cor do fundo. */
-	background: #a1a1a1;
+	background: #4682B4;
 
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
@@ -76,7 +76,7 @@ header #logo {
 	flex: 0 1 200px;
 
 	/* Cor do fundo. */
-	background: #c9c9c9;
+	background: #3333;
 
 	/* Alinha os itens na vertical. */
 	justify-content: center;
@@ -110,6 +110,7 @@ header #logo {
 }
 
 nav {
+	background: #1E90FF;
 	/* Alinha os itens na vertical. */
 	justify-content: center;
 
@@ -118,26 +119,32 @@ nav {
 
 	/* Altura do elemento. */
 	height: 100px;
+
+	background: #1E90FF;
 }
 
 nav a {
 	/* Margem de todos os lados. */
 	margin: 3%;
 	font-size: 15pt;
+	
 }
 
 main {
+	background: #006400;
 	/* Realizar a subtração de 100% da altura vertical menos a soma    */
 	/* da altura dos elementos ( 400px ) com as suas margens ( 36px ). */
 	height: calc(100vh - 436px);
 }
 
 aside {
+	background: #B0C4DE;
 	/* Altura do elemento. */
 	height: 100px;
 }
 
 footer {
+	background: #FF1493;
 	/* Altura do elemento. */
 	height: 100px;
 }
