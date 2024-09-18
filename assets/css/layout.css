@@ -155,10 +155,11 @@ footer {
 	height: 100px;
 }
 table {
-	background: #cb3a3ab3;
+	background: #d60505b3;
 	border-radius: 10px;
 	padding: 10px;
 	margin: 0 auto;
+    color: #ffffff;
 }
 a {
 	/* Remove a decoração padrão do elemento. */
